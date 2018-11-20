@@ -1,4 +1,4 @@
-# FKhởi tạo ứng dụng Flutter đầu tiên
+# Khởi tạo ứng dụng Flutter đầu tiên
 
 Bước đầu làm quen với Flutter hãy bắt đầu với bằng khởi tạo ứng dụng Flutter đầu tiên.
 
